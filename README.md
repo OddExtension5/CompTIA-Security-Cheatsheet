@@ -2,9 +2,13 @@
 
 "The CompTIA Security+ exam will the successful candidate has the knowldege and skills required to install and configure systems to secure applications, networks, and devices; perform threat analysis and respond with appropriate mitigation techniques; participlate in risk mitigation activities; and operate with an awareness of applicable policies, laws and regulations.
 
+![Image](Logo_CompTIA_Security-plus-895x400.png)
+
 The successful candidate will perform these tasks to support the principles of confidentiality, integrity, and availability."
 
-All the cheat sheet will be divided in the given exam domain of SY0-501. For cheat sheet access click on the interested domain.
+All the cheat sheet will be divided into the given exam domain of SY0-501. For accessing the cheat sheet click on the interested domain.
+
+**Note**: Cheat Sheets contains the condensed format of the main facts which are important for the exam.
 
 ## Domains
 
