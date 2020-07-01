@@ -15,6 +15,11 @@ All the cheat sheet will be divided in the given exam domain of SY0-501. For che
 + D5: Risk Management (14%)
 + D6: Cryptography & PKI (12%)
 
+## References
+
++ [CompTIA Security+ SY0-501 Certification Crash Course](https://learning.oreilly.com/live-training/courses/comptia-security-sy0-501-certification-crash-course/0636920400424/)
++ [CompTIA Security+ All-in-One Exam Guide, Fifth Edition (Exam SY0-501), 5th Edition](https://learning.oreilly.com/library/view/comptia-security-all-in-one/9781260019292/)
+
 
 
 
