@@ -16,7 +16,7 @@ All the cheat sheet will be divided into the given exam domain of SY0-501. For a
 + [D2: Technologies & Tools (22%)](https://github.com/OddExtension5/CompTIA-Security-Cheatsheet/blob/master/D2.md)
 + [D3: Architecture & Design (15%)](https://github.com/OddExtension5/CompTIA-Security-Cheatsheet/blob/master/D3.md)
 + [D4: Identify & Access Management (16%)](https://github.com/OddExtension5/CompTIA-Security-Cheatsheet/blob/master/D3.md)
-+ D5: Risk Management (14%)
++ [D5: Risk Management (14%)](https://github.com/OddExtension5/CompTIA-Security-Cheatsheet/blob/master/D5.md)
 + D6: Cryptography & PKI (12%)
 
 ## References
